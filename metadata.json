@@ -1,0 +1,7 @@
+{
+  "name": "Pixly",
+  "description": "A professional AI-powered product content creator for affiliate marketers, offering high-quality image generation without watermarks.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
