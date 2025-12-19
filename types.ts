@@ -4,7 +4,8 @@ export enum AppTheme {
   BlueSky = 'Blue Sky',
   MidnightBlue = 'Midnight Blue',
   MaroonMahony = 'Maroon Mahony',
-  ChocolateCaramel = 'Chocolate Caramel'
+  ChocolateCaramel = 'Chocolate Caramel',
+  SoftGreen = 'Soft Green'
 }
 
 export enum AppLanguage {

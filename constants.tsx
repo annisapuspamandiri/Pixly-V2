@@ -51,5 +51,15 @@ export const THEME_CONFIGS = {
     border: 'border-amber-800',
     input: 'focus:ring-amber-400 focus:border-amber-400 bg-amber-950 text-white border-amber-900',
     buttonText: 'text-white'
+  },
+  [AppTheme.SoftGreen]: {
+    bg: 'bg-[#F0FDF4]',
+    card: 'bg-white',
+    text: 'text-green-900',
+    primary: 'bg-green-500 hover:bg-green-600',
+    accent: 'text-green-500',
+    border: 'border-green-200',
+    input: 'focus:ring-green-400 focus:border-green-400',
+    buttonText: 'text-white'
   }
 };
